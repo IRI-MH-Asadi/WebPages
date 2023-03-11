@@ -1,0 +1,7 @@
+/workspaces/WebPages/NewProject/Coche/bin/Debug/net7.0/publish/Coche
+/workspaces/WebPages/NewProject/Coche/bin/Debug/net7.0/publish/appsettings.Development.json
+/workspaces/WebPages/NewProject/Coche/bin/Debug/net7.0/publish/appsettings.json
+/workspaces/WebPages/NewProject/Coche/bin/Debug/net7.0/publish/Coche.dll
+/workspaces/WebPages/NewProject/Coche/bin/Debug/net7.0/publish/Coche.deps.json
+/workspaces/WebPages/NewProject/Coche/bin/Debug/net7.0/publish/Coche.runtimeconfig.json
+/workspaces/WebPages/NewProject/Coche/bin/Debug/net7.0/publish/Coche.pdb
